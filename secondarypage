@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Secondary Page</title>
+</head>
+<body>
+<p> Congrats. This is the secondary page. Return to the main page <a href="index.html">here</a>
+</body>
+</html>
